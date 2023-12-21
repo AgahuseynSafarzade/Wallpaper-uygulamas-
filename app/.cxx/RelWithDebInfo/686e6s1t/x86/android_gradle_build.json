@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\user\\AndroidStudioProjects\\AgahDeneme\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\user\\AndroidStudioProjects\\AgahDeneme\\app\\.cxx\\RelWithDebInfo\\686e6s1t\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\user\\AndroidStudioProjects\\AgahDeneme\\app\\.cxx\\RelWithDebInfo\\686e6s1t\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "agahdeneme-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\user\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\user\\AndroidStudioProjects\\AgahDeneme\\app\\.cxx\\RelWithDebInfo\\686e6s1t\\x86",
+        "agahdeneme"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "agahdeneme",
+      "output": "C:\\Users\\user\\AndroidStudioProjects\\AgahDeneme\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\686e6s1t\\obj\\x86\\libagahdeneme.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

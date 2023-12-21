@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\ozcan\AndroidStudioProjects\AgahDeneme\app\.cxx\Debug\5x6q1l1p\x86'
+[1/2] Building CXX object CMakeFiles/agahdeneme.dir/agahdeneme.cpp.o
+[2/2] Linking CXX shared library C:\Users\ozcan\AndroidStudioProjects\AgahDeneme\app\build\intermediates\cxx\Debug\5x6q1l1p\obj\x86\libagahdeneme.so

@@ -1,0 +1,3 @@
+C:/Users/user/AndroidStudioProjects/AgahDeneme/app/.cxx/Debug/38413w3y/x86/CMakeFiles/agahdeneme.dir
+C:/Users/user/AndroidStudioProjects/AgahDeneme/app/.cxx/Debug/38413w3y/x86/CMakeFiles/edit_cache.dir
+C:/Users/user/AndroidStudioProjects/AgahDeneme/app/.cxx/Debug/38413w3y/x86/CMakeFiles/rebuild_cache.dir

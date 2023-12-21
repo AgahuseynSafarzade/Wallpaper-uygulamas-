@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\menu_popup_menu.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_login_icon.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\login_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xxhdpi_like_button_foreground.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xxhdpi\\like_button_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\color_buttoncolor_home.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\color\\buttoncolor_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_favorite_24_white.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_favorite_24_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\anim_ttb2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\anim\\ttb2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_login_background_yellow_line.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\login_background_yellow_line.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_arrow_circle_down_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_arrow_circle_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_canvas_tasarimi_login.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\canvas_tasarimi_login.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_done_outline_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_done_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_settings_background_yellow.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\settings_background_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_settings_background_foto.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\settings_background_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_likebuttonn.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\likebuttonn.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_wallaper.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\wallaper.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_settings_background_new.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\settings_background_new.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-mdpi_like_button_foreground.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-mdpi\\like_button_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_photo_library_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_photo_library_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-anydpi-v26_like_button.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-anydpi-v26\\like_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_bottom_sheet_dialog_layout.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\bottom_sheet_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_button_arkaplan.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\button_arkaplan.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_edit_text_arkaplan.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\edit_text_arkaplan.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_login_foto.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\login_foto.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-anydpi-v26_like_button_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-anydpi-v26\\like_button_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_blackcolor.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\blackcolor.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_shuffle_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_shuffle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_wallpaper_button.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\wallpaper_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_west_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_west_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\anim_ttb.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\anim\\ttb.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_baseline_more_horiz_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\baseline_more_horiz_24.xml"
+    },
+    {
+        "merged": "com.example.agahdeneme.app-merged_res-32:/layout_fragment_settings.xml.flat",
+        "source": "com.example.agahdeneme.app-main-34:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_fragment_recomender.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\fragment_recomender.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\anim_scale_anim_2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\anim\\scale_anim_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_download_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_download_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_update_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_update_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_azeterstlogo.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\azeterstlogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_baseline_wallpaper_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\baseline_wallpaper_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_activity_decision.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_decision.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xhdpi_like_button_foreground.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xhdpi\\like_button_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-hdpi_like_button_foreground.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-hdpi\\like_button_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_baseline_downloading_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\baseline_downloading_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\anim_scale_anim.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\anim\\scale_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_wallybest.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\wallybest.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\mipmap-xxxhdpi_like_button_foreground.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\mipmap-xxxhdpi\\like_button_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_genre_list_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\genre_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_login_background_image.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\login_background_image.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\anim_ttb3.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\anim\\ttb3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-merged_res-32:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\fragment_home.xml"
+    }
+]

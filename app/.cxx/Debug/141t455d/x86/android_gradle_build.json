@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\ozcan\\AndroidStudioProjects\\AgahDeneme\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ozcan\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ozcan\\AndroidStudioProjects\\AgahDeneme\\app\\.cxx\\Debug\\141t455d\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ozcan\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ozcan\\AndroidStudioProjects\\AgahDeneme\\app\\.cxx\\Debug\\141t455d\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "agahdeneme-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\ozcan\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\ozcan\\AndroidStudioProjects\\AgahDeneme\\app\\.cxx\\Debug\\141t455d\\x86",
+        "agahdeneme"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "agahdeneme",
+      "output": "C:\\Users\\ozcan\\AndroidStudioProjects\\AgahDeneme\\app\\build\\intermediates\\cxx\\Debug\\141t455d\\obj\\x86\\libagahdeneme.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,3 @@
+C:/Users/ozcan/AndroidStudioProjects/AgahDeneme/app/.cxx/RelWithDebInfo/o5cw3w6c/x86/CMakeFiles/agahdeneme.dir
+C:/Users/ozcan/AndroidStudioProjects/AgahDeneme/app/.cxx/RelWithDebInfo/o5cw3w6c/x86/CMakeFiles/edit_cache.dir
+C:/Users/ozcan/AndroidStudioProjects/AgahDeneme/app/.cxx/RelWithDebInfo/o5cw3w6c/x86/CMakeFiles/rebuild_cache.dir

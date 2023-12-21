@@ -1,0 +1,16 @@
+com/example/agahdeneme/databinding/FragmentSettingsBinding.java
+ com.example.agahdeneme.databinding.FragmentSettingsBinding
+com/example/agahdeneme/databinding/FragmentProfileBinding.java
+ com.example.agahdeneme.databinding.FragmentProfileBinding
+com/example/agahdeneme/databinding/ActivityLoginBinding.java
+ com.example.agahdeneme.databinding.ActivityLoginBinding
+com/example/agahdeneme/databinding/FragmentHomeBinding.java
+ com.example.agahdeneme.databinding.FragmentHomeBinding
+com/example/agahdeneme/databinding/ActivityDecisionBinding.java
+ com.example.agahdeneme.databinding.ActivityDecisionBinding
+com/example/agahdeneme/databinding/ListItemBinding.java
+ com.example.agahdeneme.databinding.ListItemBinding
+com/example/agahdeneme/BuildConfig.java
+ com.example.agahdeneme.BuildConfig
+com/example/agahdeneme/databinding/ActivityMainBinding.java
+ com.example.agahdeneme.databinding.ActivityMainBinding

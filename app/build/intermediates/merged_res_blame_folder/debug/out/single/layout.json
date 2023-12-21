@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\activity_decision.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_decision.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\genre_list_item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\genre_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\fragment_recomender.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\fragment_recomender.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\bottom_sheet_dialog_layout.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\bottom_sheet_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\list_item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-mergeDebugResources-31:\\layout\\bottom_sheet.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.6\\com.example.agahdeneme.app-main-34:\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "com.example.agahdeneme.app-mergeDebugResources-31:/layout/fragment_settings.xml",
+        "source": "com.example.agahdeneme.app-main-34:/layout/fragment_settings.xml"
+    }
+]
